@@ -8,5 +8,5 @@ behave --no-capture -f allure_behave.formatter:AllureFormatter -o AllureResults
 
 Allure Report can be invoked once the results are generated using the following command:
 
-allure serve <path to the AllureResults folder>
+allure serve "path to the AllureResults folder"
 
