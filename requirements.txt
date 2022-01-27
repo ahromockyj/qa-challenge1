@@ -1,8 +1,0 @@
-alabaster==0.7.12
-allure-behave==2.9.43
-allure-python-commons==2.9.43
-behave==1.2.6
-requests==2.23.0
-
-
-
